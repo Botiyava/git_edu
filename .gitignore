@@ -1,0 +1,2 @@
+# do not indexing environment files
+*.env
